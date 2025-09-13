@@ -96,7 +96,12 @@ jupyter notebook
 - **Disney AI: Dynamic Collaboration** → *Game Theory Orchestration (CH Pillar)*  
   - Focus: negotiation + collaboration across agents.  
 
-✨ Together, they form twin anchors in the Carnegie Hall framework — showing how polyglot AI pipelines can encode both **authenticity** and **collaboration**.
+✨ Together, they form twin anchors in the Carnegie Hall framework — showing how polyglot AI pipelines can encode both authenticity and collaboration.  
+
+✨ Part of the Carnegie Hall polyglot orchestration suite 
+(see Warner AI, Sony Duelist AI, Apple Prestige Tech AI, Boeing RPA Ops, NASA Orbital Symphony). 
+Each repo acts as a chapter in the larger orchestration story.
+
 
 ---
 
