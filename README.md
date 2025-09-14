@@ -98,9 +98,10 @@ jupyter notebook
 
 ✨ Together, they form twin anchors in the Carnegie Hall framework — showing how polyglot AI pipelines can encode both authenticity and collaboration.  
 
-✨ Part of the Carnegie Hall polyglot orchestration suite 
-(see Warner AI, Sony Duelist AI, Apple Prestige Tech AI, Boeing RPA Ops, NASA Orbital Symphony). 
-Each repo acts as a chapter in the larger orchestration story.
+✨ Part of the **Carnegie Hall Polyglot Orchestration Suite**:  
+Carnegie Hall | Disney | Warner Bros. | Sony | NBCUniversal | Paramount | Netflix | Apple | Boeing | Northrop Grumman | NASA  
+
+Each repo acts as a chapter in the larger orchestration story — blending creativity and precision engineering.
 
 
 ---
