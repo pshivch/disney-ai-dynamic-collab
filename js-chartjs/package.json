@@ -1,8 +1,0 @@
-{
-  "name": "js-chartjs-demo",
-  "version": "1.0.0",
-  "dependencies": {
-    "chart.js": "^4.4.0",
-    "http-server": "^14.1.1"
-  }
-}
