@@ -1,3 +1,35 @@
+# 🎬 Disney AI: Dynamic Collaboration (Fantasia-Inspired) ✨
+
+**Impact**  
+Inspired by Disney’s *Fantasia* (1940) — a milestone where orchestral music and animation played together in real time — this project reimagines that legacy with AI and Carnegie Hall’s **Dynamic Collaboration** pillar. It shows how **AI and human agents negotiate** tempo, orchestration, and scene dynamics using **game theory**.
+
+**Performance Link**  
+*Fantasia* featured Leopold Stokowski and the Philadelphia Orchestra, pioneers in blending live orchestral performance with animation. This repo models that spirit of collaboration mathematically: orchestra sections become **agents**, and we use **Shapley values** and **Nash bargaining** to balance spotlight, timing, and harmony.
+
+---
+
+## Core Innovation (CH Pillar: Dynamic Collaboration)
+- 🎭 **Game-Theory Orchestration** → cooperative payoffs per section (Strings, Winds, Brass, Percussion).
+- 🎶 **Music Alignment** → tempo curves reconcile AI vs human preferences.
+- 🎬 **Animation Flow** → scene plans adapt based on negotiation outcomes.
+
+*Certification support:* **Stanford University — Game Theory I & II (Coursera+, 2023)**
+
+---
+
+## Visual Demonstrations
+These figures are generated in the notebook and exported as PNGs for easy viewing:
+- `character_frequency.png` → balance across collaborative arcs  
+- `tempo_ai_vs_human.png` → negotiated tempo curves  
+- `collaboration_heatmap.png` → agent influence matrix  
+- `workflow_diagram.png` → prompt → negotiation → orchestration → scene plan
+
+---
+
+## Quick Start
+```bash
+pip install -r requirements.txt
+jupyter notebook Disney_AI_Dynamic_Collab.ipynb
 # 🎼 Disney AI: Dynamic Collaboration 🎬✨
 
 Inspired by Disney’s *Fantasia (1940)* — a milestone where orchestral music and animation negotiated in real time — this repo reimagines that legacy with AI and Carnegie Hall’s Dynamic Collaboration pillar.  
