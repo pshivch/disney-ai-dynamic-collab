@@ -39,6 +39,15 @@ Core innovations are aligned with **Carnegie Hall’s Five Innovation Pillars**:
 | **Automation** | RPA scripts for multi-language orchestration |
 | **Collaboration** | GitHub Actions, pre-commit hooks, polyglot linting |
 
+| **Collaboration** | GitHub Actions, pre-commit hooks, polyglot linting |
+## Repo Structure (Proposed)
+
+🎶 **Assets**
+- 🎧 [Emotion Triggers (Audio)](audio/orchestral_theme.mp3)
+- 🎨 [Visual Motif Maps (2D/3D)](visuals/emotion_heatmap.png)
+- 🕹️ [Conductor Gesture Demo (XR)](3d/orchestral_scene.glb)
+- 📘 [Orchestration Notebook](notebooks/mirror_01_disney_fantasia.ipynb)
+
 ---
 
 ## 🗂 Repo Structure (Proposed)
